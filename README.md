@@ -12,6 +12,7 @@ You will need to set up an account with IACRA AND submit an application for a st
 https://iacra.faa.gov/
 
 Youtube has this one which walks you through the steps: https://www.youtube.com/watch?v=EKp6rr6TJvU
+<a href="https://www.youtube.com/watch?v=EKp6rr6TJvU" target="_blank">IACRA Student Pilot Tutorial</a>
 
 You will need to visit an Aviation Medical Examiner and procure a 3rd class medical. You may choose any AME you like. For simplicity I recomend:
 Samir Shahin, MD
