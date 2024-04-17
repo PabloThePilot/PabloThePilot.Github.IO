@@ -31,7 +31,7 @@ https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak
 
 https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook
 
-## If the FAA Books are the Eggs, Milk, Flour and water; The online ground school is the delicious pancakes.
+## If the FAA Books are the eggs, milk, flour and water; The online ground school is the delicious pancakes.
 
 Having gone through Gleim and Kings Schools while doing my own PPL, and later having descovered Sporty's and Pilot Institute, I highly recomend Spoprty's at this time. You are of course free to choose any online ground school you like. https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html :
 <a href="https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html" target="_blank">Sporty's Learn To Fly</a>
