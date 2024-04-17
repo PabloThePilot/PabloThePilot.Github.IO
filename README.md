@@ -10,8 +10,9 @@ If you are not a US citizen you must register for an account and get fingerprint
 
 You will need to set up an account with IACRA AND submit an application for a student pilot licesne. Many an aspiring pilot who has set up the account but failed to submit the application.
 https://iacra.faa.gov/
+<a href="https://iacra.faa.gov/" target="_blank">IACRA Student Pilot Application</a>
 
-Youtube has this one which walks you through the steps: https://www.youtube.com/watch?v=EKp6rr6TJvU
+Youtube has this one which walks you through the steps:
 <a href="https://www.youtube.com/watch?v=EKp6rr6TJvU" target="_blank">IACRA Student Pilot Tutorial</a>
 
 You will need to visit an Aviation Medical Examiner and procure a 3rd class medical. You may choose any AME you like. For simplicity I recomend:
