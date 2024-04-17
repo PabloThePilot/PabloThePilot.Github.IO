@@ -1,7 +1,7 @@
 # PabloThePilot.Github.IO
 A list of useful pilot training resources
 
-Tim Loves Bacon (TSA, IACRA, Medical)
+"Tim Loves Bacon" (TSA, IACRA, Medical followed by 61.87(b). 61.87(c)  61.87(n))
 
 If you are a US citizen you will need to bring in your passport and get a one time § 1552.3 Flight training endorsment
 (61.65h A.14)
@@ -13,11 +13,17 @@ https://iacra.faa.gov/
 
 Youtube has this one which walks you through the steps: https://www.youtube.com/watch?v=EKp6rr6TJvU
 
+You will need to visit an Aviation Medical Examiner and procure a 3rd class medical. You may choose any AME you like. For simplicity I recomend:
+Samir Shahin, MD
+8930 S. SEPULVEDA BLVD SUITE 200
+Los Angeles, California 90045
+Voice: (310) 641-8111
+
 
 
 # The mandatory reading.
 
-Your pilot training is based on the following two reading materials compiled by the FAA
+Your pilot training is based on the following two reading materials compiled by the FAA. There are may ways to approach them. the important part is that you approach them. find what interest you and proceed from there.
 
 https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak
 
