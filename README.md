@@ -47,6 +47,7 @@ Long answer - You are certainly invited to pay me by the hour at $110. I will sp
 # What happens next?
 
 We get you ready for you to kick me out of the airplane and fly by yourself as a student solo. This happens when you meet the requirements set forth in <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.87" target="_blank">CFR 61.87(d)</a>
+
 (1) Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; 
 
 (2) Taxiing or surface operations, including runups; 
