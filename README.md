@@ -36,10 +36,12 @@ https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_han
 
 ## If the FAA Books are the eggs, milk, flour and water; The online ground school is the delicious pancakes.
 
-Having gone through Gleim and Kings Schools while doing my own PPL, and later having discovered Sporty's and Pilot Institute, I highly recomend Spoprty's at this time. You are of course free to choose any online ground school you like. https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html :
+Having gone through Gleim and Kings Schools while doing my own PPL, and later having discovered Sporty's and Pilot Institute, I highly recomend Sporty's at this time. You are of course free to choose any online ground school you like. https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html :
 <a href="https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html" target="_blank">Sporty's Learn To Fly</a>
 
-Do I need an online ground school? Short answer - Yes!
+Do I need an online ground school? 
+Short answer - Yes!
+
 Long answer - You are certainly invited to pay me by the hour at $110. I will spoon feed you the information you need as my schedule permits, then we will fly the airplane on the rare occaision when we are not going over the ground material. Most likely you will get frustrated after a few months and simply stop showing up. In the unlikely event that we keep this up you will complete your training as a pilot that flies remarkably like I do in 6 or 7 years time. Alternatively you can do an online ground school as your time permits. When you have questions or want to go deeper on a subject you can dig into it in the FAA books. All this will cost you a one time fee of $299 and be yours for the rest of your life. As long as I see you are progressing I will answer texts and phone calls free of charge.
 
 # Awesome links I've found along the way
