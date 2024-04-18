@@ -9,7 +9,7 @@ If you are a US citizen you will need to bring in your passport and get a one ti
 If you are not a US citizen you must register for an account and get fingerprinted through https://www.fts.tsa.dhs.gov/home :
 <a href="https://www.fts.tsa.dhs.gov/home" target="_blank">TSA FTSP Flight Training Security Program</a>
 
-You will need to set up an account with IACRA AND submit an application for a student pilot licesne. Many an aspiring pilot who has set up the account has failed to submit the application. It is a 2+ step procedure. Please put your FTN number along with your login details in your phone. You will need these along the way and they are usually required under pressure so knowing where they are will prove invaluable.  https://iacra.faa.gov/ :
+You will need to set up an account with IACRA AND submit an application for a student pilot license. Many an aspiring pilot who has set up the account has failed to submit the application. It is a 2+ step procedure. Please put your FTN number along with your login details in your phone. You will need these along the way and they are usually required under pressure so knowing where they are will prove invaluable.  https://iacra.faa.gov/ :
 <a href="https://iacra.faa.gov/" target="_blank">IACRA Student Pilot Application</a>
 
 Youtube has this one which walks you through the steps:
@@ -26,7 +26,7 @@ Voice: (310) 641-8111
 
 # The mandatory reading. Or, the more you do on your own, the more we can fly airplanes.
 
-Your pilot training is based on the following two reading materials compiled by the FAA. There are may ways to approach them. The important part is that you approach them. find what interest you and proceed from there.
+Your pilot training is based on the following two reading materials compiled by the FAA. There are may ways to approach them. The important part is that you approach them. find what interests you and proceed from there.
 
 https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak :
 <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak" target="_blank">PHAK = Pilots Handbook of Aeronautical Knowledge</a>
@@ -79,7 +79,7 @@ We get you ready for you to kick me out of the airplane and fly by yourself as a
 
 How long does this take? That is entirely dependent on you. If I have to drag you through it, about three months. If you come in and say "I am ready to challenge sixty one dot eighty seven delta three through seven today", less than a month. (some people do it in 12 hours of flight time, some do it in 46 hours of flight time. Many people realize that becoming a pilot takes a lot more work than they thought and simply never solo. Rest assured that I will not turn you loose until we both feel comfortable with it.)
 
-How often should I be training? 2 to 3 times a week. Any less and you will have to re-learn what you already acquired every time you come in. More is certainly appreciated, though it is beneficial to sleep on it and alow your brain to make the neccessary connections while you dream of flying. This is a good indicator that you are learning. In the begining you will saturate after about an hour of flight. as you progress, you will get more out of longer flights.
+How often should I be training? 2 to 3 times a week. Any less and you will have to re-learn what you already acquired every time you come in. More is certainly appreciated, though it is beneficial to sleep on it and alow your brain to make the neccessary connections while you dream of flying. This is a good indicator that you are learning. In the begining you will saturate after about an hour of flight. As you progress, you will get more out of longer flights.
 
 
 # Things I will ask you for and / or that will help you along the way.
@@ -95,7 +95,7 @@ After you Solo I will be asking for:
 
 ALC-449, ALC-62, ALC-653
 
-If you find any coursed that you are particularly keen on or that I've overlooked, please do let me know and I will add them here.
+If you find any courses there that you are particularly keen on, or that I've simply overlooked, please do let me know and I will add them here.
 
 
 # Awesome links I've found along the way
