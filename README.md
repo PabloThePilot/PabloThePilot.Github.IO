@@ -84,6 +84,10 @@ How often should I be training? 2 to 3 times a week. Any less and you will have 
 
 # Things I will ask you for and / or that will help you along the way.
 
+Do I get to do the radio? How can I sound more like a pilot?
+
+Both of these are great questions and the answers can be found in this document. <a href="https://docs.google.com/document/d/1B8wAlnHYWKdjdx8vCWJ7MTBmKRUhHHNZ0_3BROCrdCg/edit?usp=drivesdk" target="_blank">SMF Radio Procedures Guide</a> . A simple way to memorize the ICAO "Eye-cow-ooh" Phoenetic Alphabet is to hold that sheet in one hand and read a few sentences every day spelling out all the words using the IPA. You could even start with this sentence right here. Yankee, Oscar, Uniform - Charlie, Oscar, Uniform, Lima, Delta.... At first you'll find yourself looking back and forth for every letter. By day three you'll find you are rarely looking back to the sheet.
+
 The FAA likes to offer awesome aviation things for free. One of those things is the "Wings" Program. You will need to set up another account here. 
 <a href="https://www.faasafety.gov/" target="_blank">Wings program</a> : https://www.faasafety.gov/
 
