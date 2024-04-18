@@ -44,6 +44,42 @@ Short answer - Yes!
 
 Long answer - You are certainly invited to pay me by the hour at $110. I will spoon feed you the information you need as my schedule permits, then we will fly the airplane on the rare occaision when we are not going over the ground material. Most likely you will get frustrated after a few months and simply stop showing up. In the unlikely event that we keep this up you will complete your training as a pilot that flies remarkably like I do in 6 or 7 years time. Alternatively you can do an online ground school as your time permits. When you have questions or want to go deeper on a subject you can dig into it in the FAA books. All this will cost you a one time fee of $299 and be yours for the rest of your life. As long as I see you are progressing I will answer texts and phone calls free of charge.
 
+# What happens next?
+
+We get you ready for you to kick me out of the airplane and fly by yourself as a student solo. This happens when you meet the requirements set forth in <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.87" target="_blank">CFR 61.87(d)</a>
+(1) Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; 
+
+(2) Taxiing or surface operations, including runups; 
+
+(3) Takeoffs and landings, including normal and crosswind; 
+
+(4) Straight and level flight, and turns in both directions; 
+
+(5) Climbs and climbing turns; 
+
+(6) Airport traffic patterns, including entry and departure procedures; 
+
+(7) Collision avoidance, windshear avoidance, and wake turbulence avoidance; 
+
+(8) Descents, with and without turns, using high and low drag configurations; 
+
+(9) Flight at various airspeeds from cruise to slow flight; 
+
+(10) Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall; 
+
+(11) Emergency procedures and equipment malfunctions; 
+
+(12) Ground reference maneuvers; 
+
+(13) Approaches to a landing area with simulated engine malfunctions; 
+
+(14) Slips to a landing; and 
+
+(15) Go-arounds.
+
+How long does this take? Well that is entirely dependent on you. If I have to drag you through it, about a month. If you come in and say "I am ready to challenge sixty one dot eighty seven delta three through seven today" a lot less than a month. 
+
+
 # Awesome links I've found along the way
 
 <a href="https://en.wikipedia.org/wiki/Alexander_Lippisch" target="_blank">Alexander Martin Lippisch</a> was a German aeronautical engineer, a pioneer of aerodynamics who made important contributions to the understanding of tailless aircraft, delta wings and the ground effect. While at the University of Iowa he made the most amazing series of videos showing the science of flight. To explain this statement, I'm all for an artists interpretation of a scientific phenomenon, it helps get a three dimensional understanding of difficult concepts, but it will always be just that. An interpretation of the effect. Lippisch on the other hand "demonstrated the science". : <a href="https://www.youtube.com/playlist?list=PLwr4eb5N5Dr6qqVuHy__GMl9ORfcA9YP1" target="_blank">The Secret of Flight by University of Iowa</a>
