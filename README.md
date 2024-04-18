@@ -36,8 +36,7 @@ https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_han
 
 ## If the FAA Books are the eggs, milk, flour and water; The online ground school is the delicious pancakes.
 
-Having gone through Gleim and Kings Schools while doing my own PPL, and later having discovered Sporty's and Pilot Institute, I highly recomend Sporty's at this time. You are of course free to choose any online ground school you like. https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html :
-<a href="https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html" target="_blank">Sporty's Learn To Fly</a>
+Having gone through Gleim and Kings Schools while doing my own PPL, and later having discovered Sporty's and Pilot Institute, I highly recomend Sporty's at this time. You are of course free to choose any online ground school you like. <a href="https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html" target="_blank">Sporty's Learn To Fly</a>  :https://www.sportys.com/learn-to-fly/private-pilot-learn-to-fly-course.html
 
 Do I need an online ground school? 
 Short answer - Yes!
@@ -79,6 +78,8 @@ We get you ready for you to kick me out of the airplane and fly by yourself as a
 (15) Go-arounds.
 
 How long does this take? Well that is entirely dependent on you. If I have to drag you through it, about a month. If you come in and say "I am ready to challenge sixty one dot eighty seven delta three through seven today" a lot less than a month. 
+
+How often should I be training? 2 to 3 times a week. Any less and you will have to re-learn what you already acquired every time you come in. More is certainly appreciated, though it is beneficial to sleep on it and alow your brain to make the neccessary connections while you dream of flying. This is a good indicator that you are learning. In the begining you will saturate after about an hour of flight. as you progress, you will get more out of longer flights.
 
 
 # Awesome links I've found along the way
