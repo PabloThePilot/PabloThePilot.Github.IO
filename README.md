@@ -9,7 +9,7 @@ If you are a US citizen you will need to bring in your passport and get a one ti
 If you are not a US citizen you must register for an account and get fingerprinted through https://www.fts.tsa.dhs.gov/home :
 <a href="https://www.fts.tsa.dhs.gov/home" target="_blank">TSA FTSP Flight Training Security Program</a>
 
-You will need to set up an account with IACRA AND submit an application for a student pilot licesne. Many an aspiring pilot who has set up the account has failed to submit the application. It is a 2+ step procedure. https://iacra.faa.gov/ :
+You will need to set up an account with IACRA AND submit an application for a student pilot licesne. Many an aspiring pilot who has set up the account has failed to submit the application. It is a 2+ step procedure. Please put your FTN number along with your login details in your phone. You will need these along the way and they are usually required under pressure so knowing where they are will prove invaluable.  https://iacra.faa.gov/ :
 <a href="https://iacra.faa.gov/" target="_blank">IACRA Student Pilot Application</a>
 
 Youtube has this one which walks you through the steps:
@@ -80,6 +80,20 @@ We get you ready for you to kick me out of the airplane and fly by yourself as a
 How long does this take? Well that is entirely dependent on you. If I have to drag you through it, about a month. If you come in and say "I am ready to challenge sixty one dot eighty seven delta three through seven today" a lot less than a month. 
 
 How often should I be training? 2 to 3 times a week. Any less and you will have to re-learn what you already acquired every time you come in. More is certainly appreciated, though it is beneficial to sleep on it and alow your brain to make the neccessary connections while you dream of flying. This is a good indicator that you are learning. In the begining you will saturate after about an hour of flight. as you progress, you will get more out of longer flights.
+
+
+# Things I will ask you for and / or that will help you along the way.
+
+The FAA likes to offer awesome aviation things for free. One of those things is the "Wings" Program. You will need to set up another account here. 
+<a href="https://www.faasafety.gov/" target="_blank">Wings program</a> : https://www.faasafety.gov/
+
+I will be askig for completion certificates for:
+
+ALC-481, ALC-322, ALC-42, ALC-480 (optional)
+
+After you Solo I will be asking for
+
+ALC-449, ALC-62, ALC-653
 
 
 # Awesome links I've found along the way
