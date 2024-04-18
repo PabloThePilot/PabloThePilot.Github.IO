@@ -1,5 +1,5 @@
-# PabloThePilot.Github.IO
-A list of useful pilot training resources
+
+# A list of useful pilot training resources to get you started
 
 ## "Tim Loves Bacon" (TSA, IACRA, Medical followed by 61.87(b). 61.87(c)  61.87(n))
 
