@@ -82,6 +82,13 @@ How long does this take? That is entirely dependent on you. If I have to drag yo
 How often should I be training? 2 to 3 times a week. Any less and you will have to re-learn what you already acquired every time you come in. More is certainly appreciated, though it is beneficial to sleep on it and alow your brain to make the neccessary connections while you dream of flying. This is a good indicator that you are learning. In the begining you will saturate after about an hour of flight. As you progress, you will get more out of longer flights.
 
 
+# And then?
+
+
+You will need to sit the Federal Aviation Administration (FAA) Private Pilot License (PPL) "written" test. This is a 60 question mutilple choice test administered by the FAA through one of their testing centers. You can pass with a %70 BUT the Designated Pilot Examiner (DPE) who will administer your "practical" test later down the line will ask you about all the questions you missed so it certainly in your best interet to score in the 90s
+The questions are based on the two books listed above AND is properly covered in the online gound school. It is in your best interest to do the test early. You can not solo until you have passed the written. many an aspiring pilot has completed everything but the written and then had to put it all on hold until they got the written out of the way. There's a few great success stories of people completing the written before they ever flew an airplane.
+
+
 # Things I will ask you for and / or that will help you along the way.
 
 Do I get to do the radio? How can I sound more like a pilot?
