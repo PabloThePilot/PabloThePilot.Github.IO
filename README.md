@@ -86,7 +86,7 @@ How often should I be training? 2 to 3 times a week. Any less and you will have 
 
 
 You will need to sit the Federal Aviation Administration (FAA) Private Pilot License (PPL) "written" test. This is a 60 question mutilple choice test administered by the FAA through one of their testing centers. You can pass with a %70 BUT the Designated Pilot Examiner (DPE) who will administer your "practical" test later down the line will ask you about all the questions you missed so it certainly in your best interet to score in the 90s
-The questions are based on the two books listed above AND is properly covered in the online gound school. It is in your best interest to do the test early. You can not solo until you have passed the written. many an aspiring pilot has completed everything but the written and then had to put it all on hold until they got the written out of the way. There's a few great success stories of people completing the written before they ever flew an airplane.
+The questions are based on the two books listed above AND is properly covered in the online gound school. It is in your best interest to do the test early. Many an aspiring pilot has completed everything but the written and then had to put it all on hold until they got the written out of the way. There's a few great success stories of people completing the written before they ever flew an airplane.
 
 
 # Things I will ask you for and / or that will help you along the way.
