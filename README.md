@@ -111,7 +111,7 @@ If you find any courses there that you are particularly keen on, or that I've si
 
 # Awesome links I've found along the way
 
-This one is just plane good. <a href="https://www.youtube.com/watch?v=DvCv2SuKCE8" target="_blank">
+This one is just plane good. <a href="https://www.youtube.com/watch?v=DvCv2SuKCE8" target="_blank">Cessna 172 how it works</a>
 
 https://www.youtube.com/watch?v=DvCv2SuKCE8
 
